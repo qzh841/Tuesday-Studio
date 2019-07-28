@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\被装管理1\\被装管理1.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Documents\\GitHub\\Tuesday-Studio\\被装管理1\\被装管理1.csproj",
       "projectName": "被装管理1",
-      "projectPath": "C:\\Users\\dell\\Desktop\\被装管理1\\被装管理1.csproj",
+      "projectPath": "C:\\Users\\dell\\Documents\\GitHub\\Tuesday-Studio\\被装管理1\\被装管理1.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\被装管理1\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Documents\\GitHub\\Tuesday-Studio\\被装管理1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
