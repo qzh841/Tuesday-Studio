@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\bin\Debug\netcoreapp2.1\被装管理1.deps.json
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\bin\Debug\netcoreapp2.1\被装管理1.runtimeconfig.json
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\bin\Debug\netcoreapp2.1\被装管理1.runtimeconfig.dev.json
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\bin\Debug\netcoreapp2.1\被装管理1.dll
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\bin\Debug\netcoreapp2.1\被装管理1.pdb
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.csprojAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.RazorAssemblyInfo.cache
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.RazorAssemblyInfo.cs
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.AssemblyInfo.cs
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.dll
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\被装管理1\obj\Debug\netcoreapp2.1\被装管理1.pdb
