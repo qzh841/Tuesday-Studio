@@ -71,3 +71,7 @@ C:\Users\dell\source\repos\测试\测试\obj\Debug\测试.csproj.CoreCompileInpu
 C:\Users\dell\source\repos\测试\测试\obj\Debug\测试.csproj.CopyComplete
 C:\Users\dell\source\repos\测试\测试\obj\Debug\测试.dll
 C:\Users\dell\source\repos\测试\测试\obj\Debug\测试.pdb
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\测试\测试\obj\Debug\测试.csprojAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\测试\测试\obj\Debug\测试.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\测试\测试\obj\Debug\测试.dll
+C:\Users\dell\Documents\GitHub\Tuesday-Studio\测试\测试\obj\Debug\测试.pdb
